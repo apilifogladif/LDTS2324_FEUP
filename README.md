@@ -1,4 +1,4 @@
 # LDTS (2ºYear 1ºSemester)
 
 <br>
-Project: https://github.com/apilifogladif/LDTS2324_Project (Grade: 17.1)
+Project: https://github.com/apilifogladif/LDTS2324_Project  (Project grade: 17.1)
